@@ -1,2 +1,8 @@
 #Dataset
 /MO_106/
+/dataset/
+/data_augmented/
+/dataset_split/
+/data/
+
+*.h5
