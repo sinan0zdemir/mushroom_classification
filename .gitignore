@@ -4,5 +4,6 @@
 /data_augmented/
 /dataset_split/
 /data/
+/tests/
 
 *.h5
