@@ -1,10 +1,6 @@
-#Dataset
-/MO_106/
+#Datasets
 /dataset/
-/data_augmented/
 /dataset_split/
 /data/
-/tests/
 /inaturalist_images/
 /inaturalist_split/
-*.h5
